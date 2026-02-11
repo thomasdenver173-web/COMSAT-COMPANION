@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of COMSATS AI Student Companion",
+  "description": "A comprehensive student assistant app for BS AI students at COMSATS University. Features include an AI-powered learning module, dynamic timetable with announcement integration, campus navigator, and study focus alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
